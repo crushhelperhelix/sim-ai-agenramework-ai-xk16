@@ -1,4 +1,4 @@
-# 
+# Native Sim AI Agent Framework plugins. Featuring AI-security and data-visualization — optimized for maximum performance.
 
 
 
